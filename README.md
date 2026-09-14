@@ -28,11 +28,6 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Crisso29&show_icons=true&theme=dark&hide_border=true&locale=es)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crisso29&layout=compact&theme=dark&hide_border=true)
-
----
-
 *Buscando primera práctica profesional en desarrollo backend*
 
 </div>
