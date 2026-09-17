@@ -21,7 +21,6 @@ y los retos técnicos que requieren pensar bien antes de escribir una sola líne
 de código. Soy responsable, constante y siempre busco mejorar.
 
 🎯 Camino hacia el **backend con .NET** y la **ciberseguridad**
-🔍 Buscando mi primera práctica profesional
 📍 Ayacucho, Perú
 
 ---
@@ -46,18 +45,8 @@ de código. Soy responsable, constante y siempre busco mejorar.
 |--|----------|-------------|
 | 🛡️ | **SafeWoman** | App móvil de seguridad para mujeres · .NET MAUI |
 | 🛣️ | **ViaLibre** | Detección de baches en Vía Los Libertadores · Python + IoT |
-| ⛏️ | **MineTrack Pro** | Monitoreo de flota minera en tiempo real · .NET |
-| 🤖 | **Asistente Diario** | Automatización motivacional · n8n + Telegram |
 
----
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Crisso29&theme=tokyonight&hide_border=true&locale=es)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crisso29&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
