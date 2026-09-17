@@ -1,14 +1,28 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150"/>
 
 # Crisólogo Aguilar Flores
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Systems+Engineering+Student+%40+UNSCH;Backend+.NET+Developer+in+training;Cybersecurity+path+%F0%9F%94%90;Ayacucho%2C+Per%C3%BA+%F0%9F%87%B5%F0%9F%87%AA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Systems+Engineering+Student+%40+UNSCH;8vo+Ciclo+%7C+Ayacucho%2C+Per%C3%BA;Backend+.NET+Developer+in+training;Cybersecurity+path+%F0%9F%94%90;Aprendo+en+detalle%2C+afronto+retos+reales)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Crisso29&color=00d9ff&style=flat-square&label=Visitas+al+perfil)
+![Profile Views](https://komarev.com/ghpvc/?username=Crisso29&color=00d9ff&style=flat-square&label=Visitas)
 
 </div>
+
+---
+
+## 👤 Sobre mí
+
+Estudiante de Ingeniería de Sistemas en la **UNSCH** cursando el **8vo ciclo**.
+Me apasiona aprender de manera profunda y detallada — no me conformo con
+entender solo la superficie de las cosas. Me interesan los problemas complejos
+y los retos técnicos que requieren pensar bien antes de escribir una sola línea
+de código. Soy responsable, constante y siempre busco mejorar.
+
+🎯 Camino hacia el **backend con .NET** y la **ciberseguridad**
+🔍 Buscando mi primera práctica profesional
+📍 Ayacucho, Perú
 
 ---
 
@@ -26,7 +40,7 @@
 
 ---
 
-### 🚀 Proyectos
+## 🚀 Proyectos
 
 | | Proyecto | Descripción |
 |--|----------|-------------|
@@ -39,11 +53,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Crisso29&show_icons=true&theme=tokyonight&hide_border=true&locale=es)
+![GitHub Streak](https://streak-stats.demolab.com?user=Crisso29&theme=tokyonight&hide_border=true&locale=es)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crisso29&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Crisso29&theme=tokyonight&hide_border=true&locale=es)
 
 </div>
 
@@ -51,8 +63,8 @@
 
 <div align="center">
 
-*Buscando primera práctica profesional en desarrollo backend*
+*"Aprendo en detalle, construyo con propósito."*
 
-📍 Ayacucho, Perú &nbsp;·&nbsp; 📧 crisologo.aguilar.27@unsch.edu.pe
+📧 crisologo.aguilar.27@unsch.edu.pe
 
 </div>
